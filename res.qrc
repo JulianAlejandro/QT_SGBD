@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>abrir_base.png</file>
+        <file>abrir_sql.png</file>
+        <file>acerca_de.png</file>
+        <file>base.png</file>
+        <file>base_de_datos (2).png</file>
+        <file>bases_de_datos.png</file>
+        <file>buscar_remplazar.png</file>
+        <file>copiar.png</file>
+        <file>cortar.png</file>
+        <file>ejecutar.png</file>
+        <file>guardar.png</file>
+        <file>guardar_base.png</file>
+        <file>guardar_sql.png</file>
+        <file>manual.png</file>
+        <file>pegar.png</file>
+        <file>preferencias.png</file>
+        <file>quitar.png</file>
+        <file>tabla.png</file>
+        <file>imprimir.png</file>
+    </qresource>
+</RCC>
